@@ -1,4 +1,4 @@
-# ZOOO: A Rotatable Multiple Animatronics Stage
+# [ZOOO: A Rotatable Multiple Animatronics Stage](https://www.zhiyima.com/zooo/)
 
 # Introduction
 ZOOO is a multi-animatronics stage that can control several animatronics simultaneously. It simplifies the procedure of scripting motions for multi-animatronics as well as enriching interactions between animatronics. With supporting software, interactions like dancing, chatting, chasing, and hide-and-seek can be created quickly and intuitively.
